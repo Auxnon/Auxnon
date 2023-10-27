@@ -12,7 +12,14 @@ A Rust-built Lua superset interpreter and runtime. Currently stack-based with op
 A monolithic repo containing Version 3 of [MakeAvoy.com](https://makeavoy.com/), [Petrichor64.app](https://petrichor64.app/), and the Rust-built axum/tower backend
 
 ## The Stacks
-Coming Soon! An excessive demonstration of multiple front-end and back-end frameworks and languages
+WIP, an excessive demonstration of multiple front-end and back-end frameworks and languages.
+- [🥝Green](https://github.com/Auxnon/stack-green)- WIP Spring with Kotlin backend and react front end
+- [🐬Cyan](https://github.com/Auxnon/stack-cyan)- WIP A go and htmx backend with tailwind styling
+- [🫐Blue](https://github.com/Auxnon/stack-blue)- WIP a simple ASP.NET Core with C# back end and React front end
+- [🫒Olive](https://github.com/Auxnon/stack-olive)- WIP a Nest.js back end with a Nuxt.js front end
+- ♦️Red- Ruby on Rails,coming soon!
+- 🦀Orange- Leptos, coming soon!
+- [The Omni Stack](https://github.com/Auxnon/omni-stack)- WIP containerized stack series repos into a single page. A challenge, and an abomination.
 
 
 ## Other notable projects
