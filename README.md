@@ -21,10 +21,31 @@ WIP, an excessive demonstration of multiple front-end and back-end frameworks an
 - 🦀Orange- Leptos, coming soon!
 - [The Omni Stack](https://github.com/Auxnon/omni-stack)- WIP containerized stack series repos into a single page. A challenge, and an abomination.
 
+## React projects
+- [UI Components](https://github.com/Auxnon/ui-components)
+
+## Angular projects
+- [RoundMusic- a vector waveform created on the fly from loaded audio file](https://github.com/Auxnon/round-music)
+- [Basic Todo List](https://github.com/Auxnon/todo-app)
+
+## Svelte projects
+- [Petrichor64 landing page & command list](https://github.com/Auxnon/site-delta/tree/main/petrichor-package)- part of the site delta mono repo
+
+## Three.js or WebGL projects
+- [A holiday letter maker using Three.js and signature copying and writing mechanism](https://github.com/Auxnon/seasons-greetings)
+- [A proof of concept draggable signed distance field (SDF) modeling system](https://github.com/Auxnon/clumpy-tool/)
+
+##Go projects
+- [ConnectReport report converter](https://github.com/Auxnon/cr-report-converter)- converts an html generated report into a more compact format
+
+## Rust projects
+- [Petrichor64](https://github.com/Auxnon/Petrichor64) see above
+- [Silt-Lua](https://github.com/Auxnon/silt-lua) see above
+- [A pre-cursor to Petrichor64](https://github.com/Auxnon/macro-test)
 
 ## Other notable projects
 - [The old version 2 of my personal website](https://github.com/Auxnon/NewWave)
-- [RoundMusic- a vector waveform created on the fly from loaded audio file](https://github.com/Auxnon/round-music)
-- [A pre-cursor to Petrichor64](https://github.com/Auxnon/macro-test)
-- [A holiday letter maker using Three.js and signature copying and writing mechanism](https://github.com/Auxnon/seasons-greetings)
-- [A proof of concept draggable signed distance field (SDF) modeling system](https://github.com/Auxnon/clumpy-tool/)
+- ["Pixel Perfect"](https://github.com/Auxnon/PixelPerfect)- an attempt at replicating UX from just a photo alone
+- [Desk.js](https://github.com/Auxnon/Desk.js)- an experiment in allowing all 10 fingers to both move and resize multiple window panes simultaneously
+- [A minecraft mod](https://github.com/Auxnon/Automatons)- Ancient. Back when everyone was modding that game the hard way, my introduction to OpenGL. My oldest github project.
+
