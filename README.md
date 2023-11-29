@@ -32,6 +32,7 @@ WIP, an excessive demonstration of multiple front-end and back-end frameworks an
 - [Petrichor64 landing page & command list](https://github.com/Auxnon/site-delta/tree/main/petrichor-package)- part of the site delta mono repo
 
 ## Three.js or WebGL projects
+- [A multiplayer 3D board game experience with editable terrain, physics, and chat](https://github.com/Auxnon/social-board-game)
 - [A holiday letter maker using Three.js and signature copying and writing mechanism](https://github.com/Auxnon/seasons-greetings)
 - [A proof of concept draggable signed distance field (SDF) modeling system](https://github.com/Auxnon/clumpy-tool/)
 
