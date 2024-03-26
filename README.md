@@ -36,8 +36,9 @@ WIP, an excessive demonstration of multiple front-end and back-end frameworks an
 - [A holiday letter maker using Three.js and signature copying and writing mechanism](https://github.com/Auxnon/seasons-greetings)
 - [A proof of concept draggable signed distance field (SDF) modeling system](https://github.com/Auxnon/clumpy-tool/)
 
-##Go projects
+## Go projects
 - [ConnectReport report converter](https://github.com/Auxnon/cr-report-converter)- converts an html generated report into a more compact format
+- [Golang PC controller "gontroller"](https://github.com/Auxnon/go-controller)- simple script intended to control computers on network with simple http listen server to easily reboot or other utlity purposes from something like a home assistant instance
 
 ## Rust projects
 - [Petrichor64](https://github.com/Auxnon/Petrichor64) see above
