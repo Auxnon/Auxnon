@@ -1,6 +1,8 @@
-### Welcome to my Git! It's quite old, mind the dust!
+## Welcome to my Git! Sit down, stay awhile!
 
-**My most notable projects right now...**
+### [My homepage, MakeAvoy.com](https://MakeAvoy.com)
+
+## My most notable projects right now...
 
 ### [Petrichor64](https://github.com/Auxnon/Petrichor64)
 The open sourced runtime for the Rust-built wgpu-based game engine. Cross-platform and works with multiple graphics APIs. Currently being ported for embedded web usage via WebGPU. This is an all-in-one runtime is currently limited to editing code in an external editor. In-engine CLI can bundle game directories into "carts" contained as binary data injected onto a png image. Think of it as Pico8 for the Playstation 1. The release build with some additional developer niceties is currently closed source. It can be downloaded on [Itch.io](https://makeavoy.itch.io/petrichor64)
@@ -44,6 +46,9 @@ WIP, an excessive demonstration of multiple front-end and back-end frameworks an
 - [Petrichor64](https://github.com/Auxnon/Petrichor64) see above
 - [Silt-Lua](https://github.com/Auxnon/silt-lua) see above
 - [A pre-cursor to Petrichor64](https://github.com/Auxnon/macro-test)
+
+## Elixir
+- [Sosh](https://github.com/Auxnon/sosh) a constantly evolving thing, now a 3d react chat client with elixir backend
 
 ## Other notable projects
 - [The old version 2 of my personal website](https://github.com/Auxnon/NewWave)
